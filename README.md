@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Striver-Courses/Strivers-A2Z-DSA-Course/blob/main/Striver_Logo.png?raw=true" width="300"/>
-</p>
 
 <h1 align="center">🚀 Striver A2Z DSA Sheet – Progress Tracker 💻</h1>
 
