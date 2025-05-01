@@ -26,11 +26,11 @@
 
 This folder contains my C++ implementations of the basic sorting algorithms practiced as part of Striver A2Z DSA Sheet - Day 1 (Sorting Basics). 
 
-| 🧠 Algorithm       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |
-|--------------------|---------------|-----------|------------------|
-| Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
-| Bubble Sort        | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) |
-| Selection Sort     | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |
+| 🧠 Algorithm     | 🚦 Difficulty | ✅ Status | 🔗 Practice Link | 💻 My Solution |
+|------------------|---------------|-----------|------------------|----------------|
+| Insertion Sort   | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [📄 insertion_sort.cpp](./insertionSort.cpp) |
+| Bubble Sort      | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | [📄 bubble_sort.cpp](./bubbleSort.cpp) |
+| Selection Sort   | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | [📄 selection_sort.cpp](./selectionSort.cpp) |
 
 ---
 
