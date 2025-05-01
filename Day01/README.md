@@ -1,4 +1,3 @@
-
 <h1 align="center">🚀 Striver A2Z DSA Sheet – Progress Tracker 💻</h1>
 
 <p align="center">
@@ -23,27 +22,9 @@
 
 ---
 
-## 🧭 About the Journey
+## <strong>📖 Day 1 - 01/05/2025 – Sorting Algorithm Basics</strong>
 
-Welcome to my daily progress tracker for the [**Striver A2Z DSA Sheet**](https://takeuforward.org/strivers-a2z-dsa-course-sheet/), a structured roadmap designed to build strong problem-solving skills for technical interviews and competitive programming.  
-It includes my progress, solutions, notes, resources, and revision status — organized **day by day**.
-
----
-
-## 🗂️ Challenge Overview
-
-- 🗓️ **Daily Commitment** until the sheet is complete
-- 🧠 **Goal:** Master each topic in DSA with practical problems
-- 📁 **Format:** Day-wise folders with code, notes & solutions
-- 💬 **Language:** C++ (Primary), Markdown (for notes)
-
----
-
-## 📅 Daily Progress Log
-
-<details>
-<summary><strong>📖 Day 1 – Sorting Basics</strong></summary>
-
+This folder contains my C++ implementations of the basic sorting algorithms practiced as part of Striver A2Z DSA Sheet - Day 1 (Sorting Basics). 
 
 | 🧠 Algorithm       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |
 |--------------------|---------------|-----------|------------------|
@@ -51,8 +32,16 @@ It includes my progress, solutions, notes, resources, and revision status — or
 | Bubble Sort        | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) |
 | Selection Sort     | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |
 
-</details>
-
 ---
 
 
+## 🛠️ Tools Used
+
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [CodeStudio – CodeNinja](https://www.codingninjas.com/studio/)
+- C++ (for solutions)
+- Markdown (for notes)
+- Git & GitHub (for version control)
+
+---
