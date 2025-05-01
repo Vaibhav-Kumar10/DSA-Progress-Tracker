@@ -44,13 +44,14 @@ It includes my progress, solutions, notes, resources, and revision status — or
 <details>
 <summary><strong>📖 Day 1 – Sorting Basics</strong></summary>
 
-| 🧩 Problem       | ✅ Status | 🔗 Problem Link | 🧠 Difficulty |
-|------------------|----------|------------------|---------------|
-| Selection Sort   | ✅ Solved | [Leetcode](#)    | Easy          |
-| Bubble Sort      | ✅ Solved | [GFG](#)         | Easy          |
-| Insertion Sort   | ✅ Solved | [Leetcode](#)    | Easy          |
 
-📁 [View Folder](./daywise/Day01_Introduction_Sorting)
+| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |
+|--------------------|---------------|-----------|------------------|
+| Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
+| Bubble Sort        | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) |
+| Selection Sort     | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |
+
+📁 [View Folder](./Day01)
 
 </details>
 
