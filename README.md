@@ -57,22 +57,23 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
-<!--
 <details>
 <summary><strong>📖 Day 2 – Merge & Quick Sort + Recursion</strong></summary>
 
-| 🧩 Problem                 | ✅ Status | 🔗 Practice Link | 📄 Notes | 🧠 Difficulty |
-|---------------------------|-----------|------------------|----------|---------------|
-| Merge Sort                | ✅ Solved | [GFG](#)         | ✅       | Medium        |
-| Quick Sort                | 🟡 Partial| [GFG](#)         | -        | Medium        |
-| Recursive Bubble Sort     | 🔲 Todo   | [GFG](#)         | -        | Easy          |
-| Recursive Insertion Sort  | 🔲 Todo   | [GFG](#)         | -        | Easy          |
 
-📁 [View Folder](./daywise/Day02_Merge_Quick_Recursion)
+| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |
+|--------------------|---------------|-----------|------------------|
+| Merge Sort    | Medium          | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) |
+| Quick Sort        | Medium          | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) |
+| Recursive Bubble Sort     | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)  |
+| Recursive Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
+
+
+📁 [View Folder](./daywise/Day02)
 
 </details>
--->
 
+---
 
 ## 🧠 Topics Covered
 
