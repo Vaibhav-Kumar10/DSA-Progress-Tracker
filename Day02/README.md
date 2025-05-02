@@ -27,10 +27,10 @@ This folder contains my C++ implementations of recursive sorting algorithms prac
 
 | 🧠 Algorithm     | 🚦 Difficulty | ✅ Status | 🔗 Practice Link | 💻 My Solution |
 |------------------|---------------|-----------|------------------|----------------|
-| Merge Sort               | Medium        | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)         | [📄 merge_sort.cpp](./mergeSort.cpp) |
-| Quick Sort               | Medium        | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)         | [📄 quick_sort.cpp](./quickSort.cpp) |
-| Recursive Bubble Sort    | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)  | [📄 recursive_bubble_sort.cpp](./bubbleSortRec.cpp) |
-| Recursive Insertion Sort | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [📄 recursive_insertion_sort.cpp](./insertionSortRec.cpp) |
+| Merge Sort               | Medium        | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)         | [📄 mergeSort.cpp](./mergeSort.cpp) |
+| Quick Sort               | Medium        | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)         | [📄 quickSort.cpp](./quickSort.cpp) |
+| Recursive Bubble Sort    | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)  | [📄 bubbleSortRec.cpp](./bubbleSortRec.cpp) |
+| Recursive Insertion Sort | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [📄 insertionSortRec.cpp](./insertionSortRec.cpp) |
 
 ---
 
