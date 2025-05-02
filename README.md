@@ -44,11 +44,11 @@ It includes my progress, solutions, notes, resources, and revision status — or
 <summary><strong>📖 Day 1 – Sorting Basics</strong></summary>
 
 
-| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |
-|--------------------|---------------|-----------|------------------|
-| Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
-| Bubble Sort        | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) |
-| Selection Sort     | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |
+| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |   
+|--------------------|---------------|-----------|------------------|  
+| Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |  
+| Bubble Sort        | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) |  
+| Selection Sort     | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |  
 
 📁 [View Folder](./Day01)
 
@@ -60,13 +60,12 @@ It includes my progress, solutions, notes, resources, and revision status — or
 <summary><strong>📖 Day 2 – Merge & Quick Sort + Recursion</strong></summary>
 
 
-| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |
-|--------------------|---------------|-----------|------------------|
-| Merge Sort    | Medium          | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) |
-| Quick Sort        | Medium          | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) |
-| Recursive Bubble Sort     | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)  |
-| Recursive Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
-
+| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |  
+|--------------------|---------------|-----------|------------------|  
+| Merge Sort    | Medium          | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) |  
+| Quick Sort        | Medium          | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) |  
+| Recursive Bubble Sort     | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)  |  
+| Recursive Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |  
 
 📁 [View Folder](./Day02)
 
