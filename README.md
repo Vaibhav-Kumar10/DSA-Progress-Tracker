@@ -1,4 +1,3 @@
-
 <h1 align="center">🚀 Striver A2Z DSA Sheet – Progress Tracker 💻</h1>
 
 <p align="center">
