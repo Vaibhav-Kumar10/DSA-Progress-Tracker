@@ -68,7 +68,7 @@ It includes my progress, solutions, notes, resources, and revision status — or
 | Recursive Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
 
 
-📁 [View Folder](./daywise/Day02)
+📁 [View Folder](./Day02)
 
 </details>
 
