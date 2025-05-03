@@ -19,7 +19,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🧭 About the Journey
@@ -43,12 +42,11 @@ It includes my progress, solutions, notes, resources, and revision status — or
 <details>
 <summary><strong>📖 Day 1 – Sorting Basics</strong></summary>
 
-
-| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |   
-|--------------------|---------------|-----------|------------------|  
-| Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |  
-| Bubble Sort        | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) |  
-| Selection Sort     | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |  
+| 🧠 Problem     | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                     |
+| -------------- | ------------- | --------- | ------------------------------------------------------------------------------------ |
+| Insertion Sort | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
+| Bubble Sort    | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)       |
+| Selection Sort | Easy          | ✅ Solved | [GFG – Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) |
 
 📁 [View Folder](./Day01)
 
@@ -59,15 +57,29 @@ It includes my progress, solutions, notes, resources, and revision status — or
 <details>
 <summary><strong>📖 Day 2 – Merge & Quick Sort + Recursion</strong></summary>
 
-
-| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link |  
-|--------------------|---------------|-----------|------------------|  
-| Merge Sort    | Medium          | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) |  
-| Quick Sort        | Medium          | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) |  
-| Recursive Bubble Sort     | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)  |  
-| Recursive Insertion Sort     | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |  
+| 🧠 Problem               | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                     |
+| ------------------------ | ------------- | --------- | ------------------------------------------------------------------------------------ |
+| Merge Sort               | Medium        | ✅ Solved | [GFG – Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1)              |
+| Quick Sort               | Medium        | ✅ Solved | [GFG – Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1)              |
+| Recursive Bubble Sort    | Easy          | ✅ Solved | [GFG – Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1)       |
+| Recursive Insertion Sort | Easy          | ✅ Solved | [GFG – Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) |
 
 📁 [View Folder](./Day02)
+
+</details>
+
+---
+
+<details>
+<summary><strong>📖 Day 3 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                           | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                       |
+| ------------------------------------ | ------------- | --------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Largest Element in Array             | Easy          | ✅ Solved | [GFG – Largest Element in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)                |
+| Second Largest                       | Easy          | ✅ Solved | [GFG – Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1)                                    |
+| Check if Array Is Sorted and Rotated | Easy          | ✅ Solved | [Leetcode – Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
+
+📁 [View Folder](./Day03)
 
 </details>
 
@@ -100,19 +112,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 ## 💡 Motivation
 
 > “Code every day. Stay consistent, stay sharp.”  
-> – *Inspired by Sandeep Jain Sir*
+> – _Inspired by Sandeep Jain Sir_
 
 > "Work Hard, Success is Yours."  
-> – *Inspired by Sriram Sir*
+> – _Inspired by Sriram Sir_
 
 > "Consistency is more important than intensity."  
-> – *One problem at a time, every single day.*
+> – _One problem at a time, every single day._
 
 ---
 
 ## 🙌 Acknowledgements
 
 Special thanks to:
+
 - **Striver (Raj Vikramaditya)** – for curating the A2Z Sheet.
 - Mentors & Peers – for inspiring growth & discipline.
 
@@ -125,4 +138,4 @@ Let’s collaborate and grow together!
 
 ---
 
-**#VITBhopal #VITBhopalLion #DrGViswanathan #DrGViswanathanChallenge #StriverA2Z #DSA #DailyCoding #GitHubTracker #Consistency
+\*\*#VITBhopal #VITBhopalLion #DrGViswanathan #DrGViswanathanChallenge #StriverA2Z #DSA #DailyCoding #GitHubTracker #Consistency
