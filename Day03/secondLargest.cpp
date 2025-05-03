@@ -17,6 +17,6 @@ public:
                 secondLargest = arr[i];
             }
         }
-        return secondLargest != -1 ? secondLargest : -1;
+        return secondLargest;
     }
 };
