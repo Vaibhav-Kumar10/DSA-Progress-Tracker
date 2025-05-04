@@ -98,6 +98,8 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 </details>
 
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
