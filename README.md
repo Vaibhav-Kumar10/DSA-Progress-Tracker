@@ -85,6 +85,19 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 4 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                      | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                        |
+| ------------------------------- | ------------- | --------- | --------------------------------------------------------------------------------------- |
+| Linear Search                   | Easy          | ✅ Solved | [GFG – Linear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) |
+| Find Missing Number in an Array | Easy          | ✅ Solved | [Leetcode – Missing Number](https://leetcode.com/problems/missing-number)               |
+
+📁 [View Folder](./Day03)
+
+</details>
+
 ## 🧠 Topics Covered
 
 - Arrays
