@@ -134,7 +134,7 @@ Special thanks to:
 ## 🔗 Connect with Me
 
 Let’s collaborate and grow together!  
-📫 [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 [LinkedIn](https://www.linkedin.com/in/vaibhav-kumar-87557528a/)
 
 ---
 
