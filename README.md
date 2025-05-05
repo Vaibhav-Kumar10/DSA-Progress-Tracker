@@ -94,7 +94,22 @@ It includes my progress, solutions, notes, resources, and revision status — or
 | Linear Search                   | Easy          | ✅ Solved | [GFG – Linear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) |
 | Find Missing Number in an Array | Easy          | ✅ Solved | [Leetcode – Missing Number](https://leetcode.com/problems/missing-number)               |
 
-📁 [View Folder](./Day03)
+📁 [View Folder](./Day04)
+
+</details>
+
+---
+
+<details>
+
+<summary><strong>📖 Day 5 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                               |
+| --------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Left Rotate an array by one place | Easy          | ✅ Solved | [Coding Ninjas – Left Rotate an Array by One ](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278) |
+| Left rotate an array by D places  | Easy          | ✅ Solved | [Coding Ninjas – Rotate array](https://www.codingninjas.com/studio/problems/rotate-array_1230543)                                |
+
+📁 [View Folder](./Day05)
 
 </details>
 
