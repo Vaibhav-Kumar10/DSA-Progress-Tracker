@@ -104,12 +104,27 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 <summary><strong>📖 Day 5 – Easy Array Problems</strong></summary>
 
-| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                               |
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                                 |
 | --------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Left Rotate an array by one place | Easy          | ✅ Solved | [Coding Ninjas – Left Rotate an Array by One ](https://www.codingninjas.com/studio/problems/left-rotate-an-array-by-one_5026278) |
 | Left rotate an array by D places  | Easy          | ✅ Solved | [Coding Ninjas – Rotate array](https://www.codingninjas.com/studio/problems/rotate-array_1230543)                                |
 
 📁 [View Folder](./Day05)
+
+</details>
+
+---
+
+<details>
+
+<summary><strong>📖 Day 6 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                          |
+| --------------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Move Zeroes                       | Easy          | ✅ Solved | [Leetcode – Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                      |
+| Union of 2 Sorted with Duplicates | Medium        | ✅ Solved | [GFG - Union of 2 Sorted with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
+
+📁 [View Folder](./Day06)
 
 </details>
 
