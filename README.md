@@ -130,6 +130,21 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 7 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                       |
+| --------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------- |
+| Maximum Consecutive Ones          | Easy          | ✅ Solved | [Leetcode – Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |
+| Find the Number that Appears Once | Medium        | ✅ Solved | [Leetcode – Single Number](https://leetcode.com/problems/single-number/)               |
+
+📁 [View Folder](./Day07)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
