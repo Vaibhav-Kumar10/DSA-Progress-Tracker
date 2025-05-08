@@ -145,6 +145,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 8 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                       |
+| --------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------- |
+| Longest Subarray with Given Sum K | Medium        | ✅ Solved | [Coding Ninjas – Longest Subarray with Sum K](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399) |
+
+📁 [View Folder](./Day08)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
