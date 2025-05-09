@@ -149,11 +149,25 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 <summary><strong>📖 Day 8 – Easy Array Problems</strong></summary>
 
-| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                       |
-| --------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------- |
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                                |
+| --------------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Longest Subarray with Given Sum K | Medium        | ✅ Solved | [Coding Ninjas – Longest Subarray with Sum K](https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_6682399) |
 
 📁 [View Folder](./Day08)
+
+</details>
+
+---
+
+<details>
+
+<summary><strong>📖 Day 9 – Easy Array Problems</strong></summary>
+
+| 🧠 Problem                                          | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                               |
+| --------------------------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
+| Longest Subarray with Sum K (Positives + Negatives) | Medium        | ✅ Solved | [GFG – Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
+
+📁 [View Folder](./Day09)
 
 </details>
 
