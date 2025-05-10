@@ -23,7 +23,7 @@
 
 ## <strong>📖 Day 9 - 09/05/2025 – Easy/Medium Array Problems</strong>
 
-This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 7.
+This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 9.
 
 | 🧠 Problem                                          | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                               | 💻 My Solution                                                            |
 | --------------------------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
