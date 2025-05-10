@@ -173,6 +173,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 10 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                             |
+| ---------- | ------------- | --------- | ------------------------------------------------------------ |
+| Two Sum    | Medium        | ✅ Solved | [Leetcode – Two Sum](https://leetcode.com/problems/two-sum/) |
+
+📁 [View Folder](./Day10)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
