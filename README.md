@@ -187,6 +187,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 11 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                     |
+| --------------------------------- | ------------- | --------- | -------------------------------------------------------------------- |
+| Sort an Array of 0's, 1's and 2's | Medium        | ✅ Solved | [Leetcode – Sort Colors](https://leetcode.com/problems/sort-colors/) |
+
+📁 [View Folder](./Day11)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
