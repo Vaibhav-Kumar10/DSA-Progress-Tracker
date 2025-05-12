@@ -201,6 +201,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 12 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                     | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                               |
+| ------------------------------ | ------------- | --------- | ------------------------------------------------------------------------------ |
+| Majority Element (> n/2 times) | Easy          | ✅ Solved | [Leetcode – Majority Element](https://leetcode.com/problems/majority-element/) |
+
+📁 [View Folder](./Day12)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
