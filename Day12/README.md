@@ -21,7 +21,7 @@
 
 ---
 
-## <strong>📖 Day 11 - 12/05/2025 – Medium Array Problems</strong>
+## <strong>📖 Day 12 - 12/05/2025 – Medium Array Problems</strong>
 
 This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 12 (Majority Element Logic).
 
