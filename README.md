@@ -215,6 +215,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 13 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                    | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                               |
+| ----------------------------- | ------------- | --------- | ------------------------------------------------------------------------------ |
+| Maximum Subarray Sum (Kadane) | Easy          | ✅ Solved | [Leetcode – Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |
+
+📁 [View Folder](./Day13)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
