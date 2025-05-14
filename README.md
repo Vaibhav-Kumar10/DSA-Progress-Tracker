@@ -229,6 +229,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 14 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                               | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                           |
+| ---------------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Print Subarray with Maximum Subarray Sum | Medium        | ✅ Solved | [Coding Ninjas – Max Subarray Sum with Subarray](https://www.codingninjas.com/studio/problems/maximum-subarray-sum_630526) |
+
+📁 [View Folder](./Day14)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
