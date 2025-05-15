@@ -243,6 +243,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 15 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                      | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                             |
+| ------------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------------ |
+| Best Time to Buy and Sell Stock | Easy          | ✅ Solved | [Leetcode – Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+
+📁 [View Folder](./Day15)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
