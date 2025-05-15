@@ -21,7 +21,7 @@
 
 ---
 
-## <strong>📖 Day 13 - 13/05/2025 – Medium Array Problems</strong>
+## <strong>📖 Day 14 - 14/05/2025 – Medium Array Problems</strong>
 
 This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 13 (Max Subarray Sum with Subarray).
 
