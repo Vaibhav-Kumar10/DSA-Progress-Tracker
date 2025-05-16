@@ -257,6 +257,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 16 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                               |
+| -------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------------- |
+| Rearrange Array Elements by Sign | Medium        | ✅ Solved | [Leetcode – Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
+
+📁 [View Folder](./Day16)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
