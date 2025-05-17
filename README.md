@@ -271,6 +271,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 17 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                               |
+| ---------------- | ------------- | --------- | ------------------------------------------------------------------------------ |
+| Next Permutation | Medium        | ✅ Solved | [Leetcode – Next Permutation](https://leetcode.com/problems/next-permutation/) |
+
+📁 [View Folder](./Day17)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
