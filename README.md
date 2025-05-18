@@ -285,6 +285,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 18 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem          | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                          |
+| ------------------- | ------------- | --------- | ----------------------------------------------------------------------------------------- |
+| Leaders in an Array | Easy          | ✅ Solved | [GFG – Leaders in an Array](https://www.geeksforgeeks.org/problems/leaders-in-an-array/0) |
+
+📁 [View Folder](./Day18)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
