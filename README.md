@@ -299,6 +299,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 19 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                   | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                       |
+| ---------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------ |
+| Longest Consecutive Sequence | Medium        | ✅ Solved | [Leetcode – Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
+
+📁 [View Folder](./Day19)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
