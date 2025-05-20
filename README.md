@@ -313,6 +313,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 20 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                 |
+| ----------------- | ------------- | --------- | -------------------------------------------------------------------------------- |
+| Set Matrix Zeroes | Medium        | ✅ Solved | [Leetcode – Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |
+
+📁 [View Folder](./Day20)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
