@@ -327,6 +327,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 21 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                  | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                       |
+| --------------------------- | ------------- | --------- | ---------------------------------------------------------------------- |
+| Rotate Matrix by 90 Degrees | Medium        | ✅ Solved | [Leetcode – Rotate Image](https://leetcode.com/problems/rotate-image/) |
+
+📁 [View Folder](./Day21)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
