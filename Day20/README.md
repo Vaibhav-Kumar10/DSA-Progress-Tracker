@@ -23,7 +23,7 @@
 
 ## <strong>📖 Day 20 - 20/05/2025 – Medium Array Problems</strong>
 
-This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 19 (Set Matrix Zero).
+This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 20 (Set Matrix Zero).
 
 | 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                 | 💻 My Solution                                  |
 | ----------------- | ------------- | --------- | -------------------------------------------------------------------------------- | ----------------------------------------------- |
