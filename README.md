@@ -341,6 +341,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 22 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                         |
+| -------------------------------- | ------------- | --------- | ------------------------------------------------------------------------ |
+| Print the Matrix in Spiral Order | Medium        | ✅ Solved | [Leetcode – Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |
+
+📁 [View Folder](./Day22)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
