@@ -355,6 +355,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 23 – Medium Array Problems</strong></summary>
+
+| 🧠 Problem                         | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                         |
+| ---------------------------------- | ------------- | --------- | ---------------------------------------------------------------------------------------- |
+| Count Subarrays with Given Sum (K) | Easy          | ✅ Solved | [Leetcode – Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |
+
+📁 [View Folder](./Day23)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
