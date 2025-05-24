@@ -369,6 +369,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 24 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem        | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                |
+| ----------------- | ------------- | --------- | ------------------------------------------------------------------------------- |
+| Pascal's Triangle | Medium        | ✅ Solved | [Leetcode – Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) |
+
+📁 [View Folder](./Day24)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
