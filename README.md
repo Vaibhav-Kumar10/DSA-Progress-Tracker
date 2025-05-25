@@ -383,6 +383,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 25 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem                     | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                     |
+| ------------------------------ | ------------- | --------- | ------------------------------------------------------------------------------------ |
+| Majority Element (> n/3 times) | Medium        | ✅ Solved | [Leetcode – Majority Element II](https://leetcode.com/problems/majority-element-ii/) |
+
+📁 [View Folder](./Day25)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
