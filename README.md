@@ -397,6 +397,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 26 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem   | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                       |
+| ------------ | ------------- | --------- | ------------------------------------------------------ |
+| 3Sum Problem | Medium        | ✅ Solved | [Leetcode – 3Sum](https://leetcode.com/problems/3sum/) |
+
+📁 [View Folder](./Day26)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
