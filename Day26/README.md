@@ -21,7 +21,7 @@
 
 ---
 
-## <strong>📖 Day 26 - 26/05/2025 – Pascal's Triangle</strong>
+## <strong>📖 Day 26 - 26/05/2025 – Hard Array Problems</strong>
 
 This folder contains my C++ implementation of the 3Sum problem from Striver's A2Z DSA Sheet.
 
