@@ -411,6 +411,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 27 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem   | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                       |
+| ------------ | ------------- | --------- | ------------------------------------------------------ |
+| 4Sum Problem | Hard          | ✅ Solved | [Leetcode – 4Sum](https://leetcode.com/problems/4sum/) |
+
+📁 [View Folder](./Day27)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
