@@ -21,7 +21,7 @@
 
 ---
 
-## <strong>📖 Day 25 - 25/05/2025 – Pascal's Triangle</strong>
+## <strong>📖 Day 25 - 25/05/2025 – Hard Array Problems</strong>
 
 This folder contains my C++ implementation of the majority element (appearing > n/3 times) problem.
 
