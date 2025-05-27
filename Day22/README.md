@@ -21,7 +21,7 @@
 
 ---
 
-## <strong>📖 Day 22 - 22/05/2025 – Medium Matrix Problems</strong>
+## <strong>📖 Day 22 - 22/05/2025 – Medium Array Problems</strong>
 
 This folder contains my C++ implementations of problems practiced as part of Striver A2Z DSA Sheet - Day 22.
 
