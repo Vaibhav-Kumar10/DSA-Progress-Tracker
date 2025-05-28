@@ -425,6 +425,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 28 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem                  | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                         |
+| --------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------- |
+| Largest Subarray with 0 Sum | Medium        | ✅ Solved | [GFG – Largest Subarray with 0 Sum](https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/) |
+
+📁 [View Folder](./Day28)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
