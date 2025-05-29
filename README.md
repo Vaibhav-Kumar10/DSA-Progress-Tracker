@@ -439,6 +439,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 28 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem                       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                                  |
+| -------------------------------- | ------------- | --------- | ----------------------------------------------------------------------------------------------------------------- |
+| Count Subarrays with Given XOR K | Hard          | ✅ Solved | [Coding Ninjas – Subarrays with XOR K](https://www.codingninjas.com/studio/problems/subarrays-with-xor-k_6826258) |
+
+📁 [View Folder](./Day29)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
