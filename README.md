@@ -467,6 +467,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 31 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem                            | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                   |
+| ------------------------------------- | ------------- | --------- | ---------------------------------------------------------------------------------- |
+| Merge Two Sorted Arrays Without Space | Medium        | ✅ Solved | [Leetcode – Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |
+
+📁 [View Folder](./Day31)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
