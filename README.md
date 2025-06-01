@@ -481,6 +481,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 32 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem                            | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                                         |
+| ------------------------------------- | ------------- | --------- | -------------------------------------------------------------------------------------------------------- |
+| Find the Repeating and Missing Number | Hard          | ✅ Solved | [GFG – Find Missing And Repeating](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) |
+
+📁 [View Folder](./Day32)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
