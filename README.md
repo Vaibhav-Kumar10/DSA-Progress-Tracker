@@ -495,6 +495,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 33 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                             |
+| ---------------- | ------------- | --------- | ---------------------------------------------------------------------------- | ----------------------------------------------- |
+| Count Inversions | Hard          | ✅ Solved | [GFG – Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) | [📄 countInversions.cpp](./countInversions.cpp) |
+
+📁 [View Folder](./Day33)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
