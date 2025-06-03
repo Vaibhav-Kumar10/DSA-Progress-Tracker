@@ -500,10 +500,24 @@ It includes my progress, solutions, notes, resources, and revision status — or
 <summary><strong>📖 Day 33 – Hard Array Problems</strong></summary>
 
 | 🧠 Problem       | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                             |
-| ---------------- | ------------- | --------- | ---------------------------------------------------------------------------- | ----------------------------------------------- |
-| Count Inversions | Hard          | ✅ Solved | [GFG – Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) | [📄 countInversions.cpp](./countInversions.cpp) |
+| ---------------- | ------------- | --------- | ---------------------------------------------------------------------------- |
+| Count Inversions | Hard          | ✅ Solved | [GFG – Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) |
 
 📁 [View Folder](./Day33)
+
+</details>
+
+---
+
+<details>
+
+<summary><strong>📖 Day 34 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem    | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                         |
+| ------------- | ------------- | --------- | ------------------------------------------------------------------------ |
+| Reverse Pairs | Hard          | ✅ Solved | [Leetcode – Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) |
+
+📁 [View Folder](./Day34)
 
 </details>
 
