@@ -523,6 +523,20 @@ It includes my progress, solutions, notes, resources, and revision status — or
 
 ---
 
+<details>
+
+<summary><strong>📖 Day 35 – Hard Array Problems</strong></summary>
+
+| 🧠 Problem               | 🚦 Difficulty | ✅ Status | 🔗 Practice Link                                                                               |
+| ------------------------ | ------------- | --------- | ---------------------------------------------------------------------------------------------- |
+| Maximum Product Subarray | Easy          | ✅ Solved | [Leetcode – Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |
+
+📁 [View Folder](./Day35)
+
+</details>
+
+---
+
 ## 🧠 Topics Covered
 
 - Arrays
